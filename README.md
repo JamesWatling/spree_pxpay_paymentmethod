@@ -12,8 +12,8 @@ This extension will completely replace the payment page of the cart, and will
 return the customer to the completed order page when their payment has been
 processed.
 
-As such, you can not use multiple payment methods (on the front end) alongside
-this. You can manually create payments on the back-end as per usual.
+----------
+NB: You can now use multiple payment methods on the frontend.
 
 ## Installation
 

@@ -66,7 +66,6 @@ Spree::CheckoutController.class_eval do
             redirect_to px_pay_gateway.url(@order, request)
         end
 
-        redirect_to px_pay_gateway.url(@order, request)
     end
 
     def px_pay_gateway
